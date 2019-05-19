@@ -16,3 +16,4 @@ Display movie info | node liri.js movie-this <title>
 
 ## Spotify
 If everything worked as intended, you should see the following:
+![spotify before](images/spotify-this-song.png)
